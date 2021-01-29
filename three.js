@@ -38319,6 +38319,7 @@
 	exports.ZeroSlopeEnding = ZeroSlopeEnding;
 	exports.ZeroStencilOp = ZeroStencilOp;
 	exports.sRGBEncoding = sRGBEncoding;
+	exports.Earcut = Earcut;
 
 	Object.defineProperty(exports, '__esModule', { value: true });
 
